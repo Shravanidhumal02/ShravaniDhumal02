@@ -32,6 +32,6 @@ Currently learning and building projects in:
 
 ## Connect with Me
 
-LinkedIn: (Add later)
+LinkedIn: www.linkedin.com/in/shravani-dhumal-456b90341
 
-Email: your@email.com
+Email: dhumalshravani21@gmail.com
