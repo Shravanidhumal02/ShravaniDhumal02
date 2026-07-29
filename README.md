@@ -17,6 +17,8 @@ Currently learning and building projects in:
 - SQL
 - Microsoft Excel
 - Power BI
+- Tableau
+- Python
 - Power Query
 - DAX
 - Data Cleaning
@@ -25,7 +27,7 @@ Currently learning and building projects in:
 ## Projects
 
 - E-commerce Sales Dashboard
-- Netflix Dashboard
+- Superstore Dashboard
 - HR Analytics Dashboard
 
 ## Connect with Me
